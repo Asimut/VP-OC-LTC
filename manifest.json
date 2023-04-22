@@ -5,7 +5,7 @@
     "display": "standalone",
     "name": "Understanding the Treatment of TD in LTC",
     "orientation": "any", 
-    "short_name": "VP OC",
+    "short_name": "VP OC+LTC",
     "start_url": "https://asimut.github.io/VP-OC-LTC/",
     "theme_color": "#ffffff",
     "categories": [
