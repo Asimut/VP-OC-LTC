@@ -108,7 +108,8 @@ self.addEventListener('install', function(event) {
       'ryGGeGFQnZXXh9aE_transcoded-6F-kinz-Um3SBb7u-Gloria_Baseline.mp4',
       'USfO4yyUZsobZWC3_transcoded-p3ZW65hnn88TuGUm-Jane_48Weeks.mp4',
       'wOQ2Sz1HSsihxptS_transcoded-cyqlI9DTLppcN8Vk-torso.mp4',
-      'xCHhaStRPE5DNU7v_transcoded-6iZM7VOHmGoVJ7qg-lips.mp4'
+      'xCHhaStRPE5DNU7v_transcoded-6iZM7VOHmGoVJ7qg-lips.mp4',
+      'hK06BtCWL3g0fhjP_transcoded-kd_IwTb56uWFyUbl-Ed_Baseline.mp4'
     ];
   var urlsToPrefetch = [
       pageLink,
